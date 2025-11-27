@@ -23,3 +23,6 @@ include:
     shield: corne_left
   - board: seeeduino_xiao_ble
     shield: corne_right
+  include:
+  - board: seeeduino_xiao_ble
+    shield: corne_dongle prospector_adapter
